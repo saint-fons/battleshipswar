@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ab434ff1-5b54-4b33-bc44-36e5da234241" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1frPvCkWJw5r7oup0lM7HphuJBJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab434ff1-5b54-4b33-bc44-36e5da234241" name="Default Changelist" comment="" />
+      <created>1596973466906</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596973466906</updated>
+      <workItem from="1596973467940" duration="4116000" />
+      <workItem from="1597313713652" duration="608000" />
+      <workItem from="1597429617067" duration="162000" />
+      <workItem from="1598181333330" duration="1198000" />
+      <workItem from="1598191950128" duration="449000" />
+      <workItem from="1600513932631" duration="6346000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="301" y="30" width="706" height="594" key="FileChooserDialogImpl" timestamp="1598192398179">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="301" y="30" width="706" height="594" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1598192398179" />
+    <state x="183" y="7" key="SettingsEditor" timestamp="1597429778219">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="183" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1597429778219" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1596975162881">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.-510.1080.1880@0.0.1920.1040" timestamp="1596975162881" />
+  </component>
+</project>
