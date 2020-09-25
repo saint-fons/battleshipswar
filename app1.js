@@ -1,10 +1,17 @@
-var location1 = 3;
-var location2 = 4;
-var location3 = 5;
-var guess;
-var hits = 0;
-var guesses = 0;
-var isSunk = false;
+let randomLoc = Math.floor(Math.random() * 5)
+
+let location1 = randomLoc;
+let location2 = location1 + 1;
+let location3 = location2 + 1;
+let guess;
+let hits = 0;
+let guesses = 0;
+let isSunk = false;
+
+let a = 15;
+
+console.log(a);
+
 while (isSunk == false) {
     guess = prompt("Ready, aim, fire! (enter a number from 0-6):");
     if (guess < 0 || guess > 6) {

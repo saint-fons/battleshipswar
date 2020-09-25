@@ -19,10 +19,18 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab434ff1-5b54-4b33-bc44-36e5da234241" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app1.js" beforeDir="false" afterPath="$PROJECT_DIR$/app1.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +48,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1frPvCkWJw5r7oup0lM7HphuJBJ" />
@@ -71,8 +85,16 @@
       <workItem from="1598181333330" duration="1198000" />
       <workItem from="1598191950128" duration="449000" />
       <workItem from="1600513932631" duration="6346000" />
-      <workItem from="1601032999511" duration="82000" />
+      <workItem from="1601032999511" duration="3611000" />
     </task>
+    <task id="LOCAL-00001" summary="version2 work with static ship">
+      <created>1601033200253</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601033200253</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,11 +105,27 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="version2 work with static ship" />
+    <option name="LAST_COMMIT_MESSAGE" value="version2 work with static ship" />
   </component>
   <component name="WindowStateProjectService">
     <state x="301" y="30" width="706" height="594" key="FileChooserDialogImpl" timestamp="1598192398179">
@@ -98,6 +136,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="183" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1597429778219" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601033220677">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601033220677" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1596975162881">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
